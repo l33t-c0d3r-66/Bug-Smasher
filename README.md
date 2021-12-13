@@ -1,8 +1,8 @@
 # Bug-Smasher
-<li> Bug Smasher is a Simple Game created for Entertainment Purpose in HTML, CSS and JavaScript. 
-<li> In this bug will appear on different part of the screen and Player has to catch the bug using Mouse Click.
-<li> If player Clicks on the bug successfully, he'll get 10 score and score will increase for each correct Mouse Click.
-<li> The speed will increase after each correct click so the game will become more difficult after some time. In this case you can reset your speed.
+<li> Bug Smasher is a simple game created for entertainment purpose in HTML, CSS and JavaScript. 
+<li> In this game, bug will appear on different part of the screen and player will have to catch the bug using Mouse click.
+<li> If player clicks on the bug successfully, he'll get 10 score and score will increase for each correct Mouse click.
+<li> The speed will also increase after each correct click so the game will become more difficult after some time. In this case you can reset your speed.
 <li> The scores can also be reset by clicking Reset Score Button.
 
 ## What is HTML?
