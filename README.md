@@ -28,11 +28,11 @@
 ## Screenshots:
 <img src="https://github.com/l33t-c0d3r-66/Bug-Smasher/blob/master/images/Bug%20Smasher.gif">
 
-<li> A Clear Screenshot: 
-
+<li> A Clear Screenshot: <br>
+<br>
 <img src="https://github.com/l33t-c0d3r-66/Bug-Smasher/blob/master/Video/1.png">
-
-<li> Clear Vide:
+<br><br>
+<li> Clear Video: <br>
 https://github.com/l33t-c0d3r-66/Bug-Smasher/blob/master/Video/Bug%20Smasher.mp4"
 
 
