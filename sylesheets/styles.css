@@ -1,0 +1,30 @@
+body
+{
+    background-color: lightgreen;
+    width:100%;
+    margin:0px;
+    padding: 0px;
+}
+.center
+{
+    text-align: center;
+}
+#scoreButton, #speedButton {
+    background-color: lightgreen; 
+    color: red; 
+    font-size: 17px;
+    width: 150px;
+    height: 30px;
+    border: 2px solid green;
+    border-radius: 20%;
+    margin-top: 10px;
+}
+#score {
+    font-size: 20px;
+    color: red;
+    margin-bottom: 10px;
+}
+#title {
+    font-size: 30px;
+    color: red;
+}
