@@ -4,7 +4,7 @@
 <li> If player clicks on the bug successfully, he'll get 10 score and score will increase for each correct Mouse click.
 <li> The speed will also increase after each correct click so the game will become more difficult after some time. In this case you can reset your speed.
 <li> The scores can also be reset by clicking Reset Score Button.
-<li> Play, Enjoy and leave a start 🙂
+<li> Play, Enjoy and leave a start ⭐🙂
 
 ## What is HTML?
 <li> The HyperText Markup Language, or HTML is the standard markup language for documents designed to be displayed in a web browser.
